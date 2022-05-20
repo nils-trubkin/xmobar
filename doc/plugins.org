@@ -331,7 +331,7 @@
 ***** =BatteryN Dirs Args RefreshRate Alias=
 
       Works like =BatteryP=, but lets you specify an alias for the
-      monitor other than "battery". Useful in case you one separate
+      monitor other than "battery". Useful in case you want separate
       monitors for more than one battery.
 *** Cpu and Memory Monitors
 ***** =Cpu Args RefreshRate=
